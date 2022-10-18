@@ -11,3 +11,6 @@
 ## Faça o merge da branch “Respostas” para a branch “main”
 
 # 6 - Na issues do repositório "Prova" do perfil "erisvaldo2022", responda a questão que está lá.
+
+# 7 - O que é branch?
+
